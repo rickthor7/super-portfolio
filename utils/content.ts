@@ -19,12 +19,12 @@ export const NAVLINKS= [
 ]
 
 export const PROFILE = {
-  firstname : 'Muhamad',
-  lastname: 'Raul Iqbal',
+  firstname : 'Mohamad Thoriq',
+  lastname: 'Dhiya Ul Haq',
   get fullname() {
     return `${this.firstname} ${this.lastname}`
   },
-  role : 'Front-End Developer & UI Designer',
+  role : 'Fullstack Developer & IoT Developer',
   avatar: '/images/profile.jpg'
 }
 
