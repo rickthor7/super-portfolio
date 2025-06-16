@@ -20,7 +20,7 @@
         <Button
           class="mt-8"
           label="Connect Me"
-          to="#contact"
+          to="https://id.linkedin.com/in/mohamad-thoriq-dhiya-ul-haq-38698a2b3"
           variant="btn-dark"
         />
       </div>
