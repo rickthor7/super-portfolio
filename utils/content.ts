@@ -19,8 +19,8 @@ export const NAVLINKS= [
 ]
 
 export const PROFILE = {
-  firstname : 'Mohamad Thoriq',
-  lastname: 'Dhiya Ul Haq',
+  firstname : 'Mohamad',
+  lastname: 'Thoriq',
   get fullname() {
     return `${this.firstname} ${this.lastname}`
   },
