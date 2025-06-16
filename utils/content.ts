@@ -42,19 +42,19 @@ export const SERVICE = {
     {
       name: "Web Development",
       icon: 'Scroll',
-      description: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit cum distinctio dolores!',
+      description: 'This section highlights Web Development, a key area focusing on building and maintaining websites. It covers the essential skills and processes involved in creating robust and engaging web experiences.',
       thumbnails: ''
     },
     {
       name: "Mobile Development",
       icon: 'MobileProgramming',
-      description: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit cum distinctio dolores!',
+      description: 'This section showcases Mobile Development, dedicated to crafting applications for mobile devices. It emphasizes the creation of user-friendly and high-performing apps, as illustrated by the provided thumbnail.',
       thumbnails: 'https://cdn.dribbble.com/userupload/36796487/file/original-436c64a72733941273f9fd1f4d994883.jpg?resize=752x&vertical=center'
     },
     {
       name: "UI/UX Designer",
       icon: 'PenTool2',
-      description: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit cum distinctio dolores!',
+      description: 'This section describes UI/UX Design, a critical field centered on creating intuitive and aesthetically pleasing user interfaces and overall user experiences. It covers the principles and practices that ensure digital products are both beautiful and easy to use.',
       thumbnails: ''
     },
    
